@@ -38,6 +38,7 @@ News
 * New language: Franch
 * Rewrite module __main__ and new Documentor class
 
+
 0.1
 ---
 
